@@ -21,8 +21,8 @@ Link your local repository to the remote one using git remote add origin <remote
 Push your local code to the remote repository with git push -u origin master (adjust branch name if needed).
 * Generate a README File:
 Create a README file in your project directory, e.g., touch README.md.
-* Edit and Document Experiment 1.2.1:
-Edit the README.md file to include detailed information about Experiment 1.2.1, such as its aim, methodology, and relevant details.
+* Edit and Document ;
+Edit the README.md file to include detailed information such as its aim, methodology, and relevant details.
 
 # Now, let's create a README file to provide information about my employee salary calculator project. A good README typically includes the following sections: 
 1. Project Title:- A clear and concise title for your project. 
@@ -38,6 +38,6 @@ Edit the README.md file to include detailed information about Experiment 1.2.1, 
 1. Git Proficiency:
 You'll acquire essential Git skills, including repository initialization, version tracking, and collaboration using remote repositories.
 2.Documentation and Communication:
-Creating a README file for Experiment 1.2.1 will improve your ability to document and communicate project details effectively.
+Creating a README file will improve your ability to document and communicate project details effectively.
 3. Project Management Skills:
 You'll develop project organization and management skills by maintaining code in a version-controlled environment, enhancing collaboration and code maintenance.
